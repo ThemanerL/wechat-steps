@@ -9,7 +9,7 @@ env:
   STEPS: 66666  # 设置步数
   STEPS_RANGE: true  # 是否使用步数范围
   STEPS_MIN: 10000  # 步数开始
-  STEPS_MAX: 50000  # 步数结束
+  STEPS_MAX: 15000  # 步数结束
 
 jobs:
   daily-job:
