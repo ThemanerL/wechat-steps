@@ -4,6 +4,8 @@
 
 <img src="images/zepp_life_app.png" height="240px">
 
+## iPhone场景下，zeeplife 的账号，需要绑定了其他设备，手环，体重秤都可，测试新注册的号，不会同步数据到微信 ##
+
 ## 用手机号或者邮箱号注册账号
 
 <img src="images/register1.png" height="240px">
