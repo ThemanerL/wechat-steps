@@ -7,8 +7,8 @@ on:
 
 env:
   STEPS: 19600  # 设置步数
-  STEPS_RANGE: false  # 是否使用步数范围
-  STEPS_MIN: 19000  # 步数开始
+  STEPS_RANGE: true  # 是否使用步数范围
+  STEPS_MIN: 20000  # 步数开始
   STEPS_MAX: 25000  # 步数结束
 
 jobs:
