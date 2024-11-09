@@ -6,7 +6,7 @@ on:
     - cron: '0 12 * * *'  # 每天 UTC 时间执行，减8小时
 
 env:
-  STEPS: 700  # 设置步数
+  STEPS: 19600  # 设置步数
   STEPS_RANGE: false  # 是否使用步数范围
   STEPS_MIN: 19000  # 步数开始
   STEPS_MAX: 25000  # 步数结束
